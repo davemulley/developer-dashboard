@@ -67,7 +67,7 @@
   "ibmgit" : [
     {"title":"Node Express App", "subtitle":"pre-configured as a microservice with Express.js","language":"Express","href":"https://github.com/IBM/template-node-react","color":"light"},
     {"title":"Java Spring App", "subtitle":"pre-configured as a microservice with Spring","language":"Spring","href":"https://github.com/IBM/java-spring-app","color":"light"},
-    {"title":"Java Liberty App", "subtitle":"pre-configured as a microservice with Liberty","language":"Liberty","href":"https://github.com/IBM/java-liberty-app","color":"light"},
+    {"title":"Java Liberty App", "subtitle":"pre-configured as a microservice with Liberty","language":"Liberty","href":"https://github.com/ibm-garage-cloud/java-liberty-app","color":"light"},
     {"title":"Currency Node App", "subtitle":"Use test-driven development to build a Node.js application","language":"Liberty","href":"https://github.com/IBM/TDD-NodeJS-Containers","color":"light"},
     {"title":"Banking Chatbot App", "subtitle":"A chatbot for banking that uses the Watson services","language":"Node","href":"https://github.com/IBM/watson-banking-chatbot","color":"light"},
     {"title":"Visual Recognition Node App", "subtitle":"The Visual Recognition service uses deep learning algorithms to analyze images for scenes","language":"Node","href":"https://github.com/watson-developer-cloud/visual-recognition-code-pattern","color":"light"},
